@@ -8,7 +8,7 @@ resources:
 variables:
   azureServiceConnection: 'AZ400-SC'
   resourceGroup: 'AZ400-RG'
-  location: 'Australia East'
+  location: 'australiaeast'
   subscriptionId: '6a8b086f-c618-46f1-94f3-0b9fe624d067'
 
 stages:
